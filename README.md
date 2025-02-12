@@ -14,8 +14,7 @@
 - 📫 How to reach me **deepanshu.sh53@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
- <img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
-<p align="left">
+ 
 <a href="https://linkedin.com/in/deepanshu sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu sharma" height="30" width="40" /></a>
 </p>
 
